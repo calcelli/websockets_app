@@ -1,5 +1,8 @@
 This app needs nodemon to run the backend
 
+npm start for front end
+nodemon app.js for back end
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
